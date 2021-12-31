@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e74bfcfa.chunk.css",
+    "main.js": "/static/js/main.fc27d0dc.chunk.js",
+    "main.js.map": "/static/js/main.fc27d0dc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0426aaa5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0426aaa5.js.map",
+    "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
+    "static/js/2.c1cbd4dc.chunk.js": "/static/js/2.c1cbd4dc.chunk.js",
+    "static/js/2.c1cbd4dc.chunk.js.map": "/static/js/2.c1cbd4dc.chunk.js.map",
+    "static/js/3.6ef5c655.chunk.js": "/static/js/3.6ef5c655.chunk.js",
+    "static/js/3.6ef5c655.chunk.js.map": "/static/js/3.6ef5c655.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.e74bfcfa.chunk.css.map": "/static/css/main.e74bfcfa.chunk.css.map",
+    "static/js/2.c1cbd4dc.chunk.js.LICENSE.txt": "/static/js/2.c1cbd4dc.chunk.js.LICENSE.txt",
+    "static/media/CV.1638f6f6.pdf": "/static/media/CV.1638f6f6.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0426aaa5.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.c1cbd4dc.chunk.js",
+    "static/css/main.e74bfcfa.chunk.css",
+    "static/js/main.fc27d0dc.chunk.js"
+  ]
+}
