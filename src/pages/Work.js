@@ -6,7 +6,7 @@ import { render } from "react-dom";
 
 import { Timeline, Event } from "react-timeline-scribble";
 
-function Career() {
+function Work() {
     return (
         <Fragment>
             <h3>CORE COMPETENCIES</h3>
@@ -139,4 +139,4 @@ function Career() {
     )
 }
 
-export default Career;
+export default Work;

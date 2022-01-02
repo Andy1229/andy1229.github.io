@@ -6,7 +6,7 @@ import Header from './pages/Header';
 import Home from './pages/Home';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
-import Career from './pages/Career';
+import Blog from './pages/Blog';
 
 import Footer from './pages/Footer';
 
@@ -23,7 +23,7 @@ function App() {
           <Switch>
             <Route exact path="/" component={Home} />
             <Route path="/About" component={About} />
-            <Route path="/Career" component={Career} />
+            <Route path="/Blog" component={Blog} />
             <Route path="/Portfolio" component={Portfolio} />
           </Switch>
         </main>
